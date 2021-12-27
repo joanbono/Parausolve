@@ -1,0 +1,2 @@
+# Parausolve
+Paraulògic Solver
